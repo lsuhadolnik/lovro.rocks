@@ -16,3 +16,11 @@ Some time ago my
 Poskusil sem narediti s Querijem, ampak je težava, ker še ni ustvarjenega Case-a, zato pač Query ničesar ne najde...
 
 Na koncu sem odstranil check in sedaj vedno pretvarjam.
+
+
+
+---
+title: "itle: "My little pony"
+---
+
+
