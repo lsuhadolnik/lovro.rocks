@@ -1,4 +1,9 @@
-# CRM Subgrids
+---
+title: "CRM Subgrids"
+date: 2018-08-19T09:59:50+02:00
+draft: true
+---
+
 Aww yeah, my blog post!!
 * povej za HTTPS
 * povej, zakaj rabiš
