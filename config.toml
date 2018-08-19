@@ -1,0 +1,4 @@
+baseURL = "https://lovro.rocks/"
+languageCode = "en-us"
+title = "lovro.rocks"
+theme = "ananke"
