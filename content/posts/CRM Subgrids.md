@@ -1,10 +1,18 @@
 ---
-title: "CRM Subgrids"
+title: "CRM subgrids on form - how not to do it"
 date: 2018-08-19T09:59:50+02:00
 draft: true
 ---
 
+
+
+*To see part 2 about how I did it then, click here.*
+
+- Omeni, da je to nepodprto in da se ne dela, če ni res treba.
+- Dvakrat pomislite, preden naredite
+
 Aww yeah, my blog post!!
+
 * povej za HTTPS
 * povej, zakaj rabiš
 * povej, kako si dobil URL
