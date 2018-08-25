@@ -1,6 +1,7 @@
 ---
 title: "About Mycroft"
 date: 2018-08-22T09:59:50+02:00
+slug: "about-mycroft"
 draft: false
 ---
 
@@ -16,7 +17,11 @@ Just so you imagine… Our office has 2 sections: the service section and the sa
 
 Another day I was in the office, Mycroft came to me and told me how hard his life was. I asked him, what the matter was and he said that he had a tremendous amount of work to do and after everything he does, he also has to enter all the work he has done into the CRM.
 
-![First world problem meme here: I have to report to my boss in order to get paid…](https://memecreator.org/static/images/memes/4844290.jpg)
+
+
+{{% linkedimage src="https://memecreator.org/static/images/memes/4844290.jpg" alt="First world problem meme here: I have to report to my boss in order to get paid" %}}
+
+
 
 I looked at him and thought for myself, what did I break this time. I asked him, what in his opinion was the most time-consuming task he had to perform. He laughed and said: “Ha, using the CRM itself”. Then he started to explain to me in details what was the last thing he has done and how hard it was to enter the data.
 
