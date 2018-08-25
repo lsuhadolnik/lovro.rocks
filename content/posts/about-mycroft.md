@@ -10,12 +10,13 @@ THE topic, that everyone has to say so much about (let’s rather say complain) 
 
 There is an important factor in this story - it’s my coworker (let’s call him Mycroft). He is a systems engineer. He constantly happens to run into bugs, that no one else ever would. And not only he is especially keen on finding these pesky animals, he is also a ‘professional’ UX consultant. Whenever there is a possibility not to make one more click in order to finish the task, he keeps complaining about it so much, that one finds or develops a shortcut for him.
 
-My place
+## My place
+
 Just so you imagine… Our office has 2 sections: the service section and the sales section. When you enter, you come to the accounting room. If you turn to the right, you come to the sales room. There are several people including myself. Right behind me, there is a little kitchen and a bar, with movable white seats. People come here, they take a seat and talk. That enables me to get informed about everything that happens in the company. Especially usual are personal things, but the most common thing is complaining.
 
 Another day I was in the office, Mycroft came to me and told me how hard his life was. I asked him, what the matter was and he said that he had a tremendous amount of work to do and after everything he does, he also has to enter all the work he has done into the CRM.
 
-Insert a first world problem meme here: I have to tell my boss what I do in order to get paid…
+![First world problem meme here: I have to report to my boss in order to get paid…](https://memecreator.org/static/images/memes/4844290.jpg)
 
 I looked at him and thought for myself, what did I break this time. I asked him, what in his opinion was the most time-consuming task he had to perform. He laughed and said: “Ha, using the CRM itself”. Then he started to explain to me in details what was the last thing he has done and how hard it was to enter the data.
 
@@ -25,7 +26,7 @@ I told him, that everyone else has to do the same and that it actually isn’t s
 
 And then the story began. Now he comes to me several times a week and tells me about every little thing that bugs him. Sometimes I just explain to him what to do, sometimes I set up a new feature that I (and my boss) find useful for the whole team. Some of them are interesting enough to put them here for you to read.
 
-To sum things up
+## To sum things up
 
 So the silence around my place ended. Since I had this meeting with Mycroft I keep getting new ideas to implement in our Dynamics CRM. This post is a starting point just so you know the context. You are invited to check the blog for new interesting stories and ideas.
 
