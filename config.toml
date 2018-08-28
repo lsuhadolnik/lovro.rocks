@@ -4,3 +4,4 @@ title = "lovro.rocks"
 theme = "hugo-paper"
 
 disqusShortname = "lovro-rocks"
+enableEmoji = true
