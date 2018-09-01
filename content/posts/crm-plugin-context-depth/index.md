@@ -2,6 +2,9 @@
 title: "Dynamics CRM Plugin context depth"
 date: 2018-08-22T10:52:23+02:00
 draft: true
+list_header_emoji: "👉" # - Roka
+accent_color: "#abc164"
+tags: ["abc babc", "cde", "fgh"]
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Dynamics CRM JavaScript - Read this before pasting code from the web"
 date: 2018-08-20T10:32:00+02:00
 draft: true
+accent_color: "#e25555"
 ---
 
 https://msdn.microsoft.com/sl-si/library/hh771584(v=crm.7).aspx#BKMK_AreasToUseJavaScript

@@ -3,13 +3,19 @@ title: "About Mycroft"
 date: 2018-08-22T09:59:50+02:00
 slug: "about-mycroft"
 draft: false
+list_header_emoji: "👨" # Stric
+summary: "
+My company is a fine little place, where everyone does what they must. It is a place where people feel so at home. And not only the employees but also our customers. When you enter the main office, our accountant interviews you about your living, you can even eat some food there and if you are especially lucky
+"
+tags: ["company", "mycroft", "lovro", "life", "complain", "story", "small talk"]
 ---
 
-My company is a fine little place, where everyone does what they must. It is a place where people feel so at home. And not only the employees but also our customers. When you enter the main office, our accountant interviews you about your living, you can even eat some food there and if you are especially lucky, somebody comes around and offers you a drink. Everybody got very used to this rhythm. You know however that such comfort makes people lazy and our place is no exception.
 
-THE topic, that everyone has to say so much about (let’s rather say complain) is our Dynamics CRM application. I am a very lucky man since I am in charge of keeping it in shape. Every time the system decides not to function or slows down, you can hear a “Lovrooo” call across the rooms. Usually, I only have to advise them about the right way of doing the task they attempted to accomplish, yet sometimes it gets even more interesting.
+My company is a fine little place, where everyone does what they must. It is a place where people feel so at home. And not only the employees but also our customers. When you enter the main office, our accountant interviews you about your living, you can even eat some food there and if you are especially lucky somebody comes around and offers you a drink. Everybody got very used to this rhythm. You know however that such comfort makes people lazy and our place is no exception.
 
-There is an important factor in this story - it’s my coworker (let’s call him Mycroft). He is a systems engineer. He constantly happens to run into bugs, that no one else ever would. And not only he is especially keen on finding these pesky animals, he is also a ‘professional’ UX consultant. Whenever there is a possibility not to make one more click in order to finish the task, he keeps complaining about it so much, that one finds or develops a shortcut for him.
+THE topic, that everyone has to say so much about (let's rather say complain) is our Dynamics CRM application. I am a very lucky man since I am in charge of keeping it in shape. Every time the system decides not to function or slows down, you can hear a “Lovrooo” call across the rooms. Usually, I only have to advise them about the right way of doing the task they attempted to accomplish, yet sometimes it gets even more interesting.
+
+There is an important factor in this story - it's my coworker (let’s call him Mycroft). He is a systems engineer. He constantly happens to run into bugs, that no one else ever would. And not only he is especially keen on finding these pesky animals, he is also a ‘professional’ UX consultant. Whenever there is a possibility not to make one more click in order to finish the task, he keeps complaining about it so much, that one finds or develops a shortcut for him.
 
 ## My place
 
