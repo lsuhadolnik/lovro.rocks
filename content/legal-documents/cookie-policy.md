@@ -1,9 +1,10 @@
 ---
 title: "Cookie policy"
 date: 2018-08-25T18:15:00+02:00
-draft: true
+draft: false
 type: page
-show_comments: false
+comments: false
 ---
 
-- Analytics.md
+This site uses Google Analytics, which requires cookies. We do not collect any personal data. Any data contained in cookies is property of Google. 
+If you want to know more, please search the web for more information.
