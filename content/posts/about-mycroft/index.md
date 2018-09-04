@@ -7,7 +7,9 @@ list_header_emoji: "👨" # Stric
 summary: "
 My company is a fine little place, where everyone does what they must. It is a place where people feel so at home. And not only the employees but also our customers. When you enter the main office, our accountant interviews you about your living, you can even eat some food there and if you are especially lucky
 "
+keywords: ["company", "mycroft", "lovro", "life", "complain", "story", "small talk"]
 tags: ["company", "mycroft", "lovro", "life", "complain", "story", "small talk"]
+reading_time: 3.5
 ---
 
 
