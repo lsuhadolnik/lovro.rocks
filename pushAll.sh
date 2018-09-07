@@ -15,7 +15,12 @@ git add -A
 git commit -m "$cmt"
 git push github master
 
-cd public
+cd themes/hugo-paper
+git add -A
+git commit -m "$cmt"
+git push origin master
+
+cd ../../public
 
 git add -A
 git commit -m "$cmt"
