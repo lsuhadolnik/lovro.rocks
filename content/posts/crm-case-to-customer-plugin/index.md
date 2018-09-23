@@ -8,6 +8,8 @@ draft: false
 
 I have to thank Mycroft for the idea I present in this blog post. This time he complained about the Convert to case functionality.
 
+
+
 When you grab an email from some queue, you can convert it to a Case. This is a built in feature and it works as it should. An email has a From field and when you convert the case, the system sets the customer field to that value. The problem is that it is a contact. Since everything regarding billing is account oriented, you have to change the name of the one that sent you the message to the account to which they belong. Mycroft was complaining about how annoying it was always having to do it by hand.
 
 
@@ -62,8 +64,8 @@ OK... there you go. I deleted every check connected to the regarding mail and th
 
 Moral of the story
 
-Man, I did it again. The same mistake I keep repeating over and over again.
+Well well, I did it again. The same mistake I keep repeating over and over.
 
-Try not to overdo your ideas. Usually the solution is just a few clicks away and you really should think about it bedore you code.
+Try not to overdo your ideas. Usually the solution is just a few clicks away and you really should think about it before you code.
 
 Thank you, for your attention!
